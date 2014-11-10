@@ -1,0 +1,31 @@
+.clase1{
+  margin-left: 25px;
+}
+
+
+#ejemplo1{
+  width: 300px;
+  height: 140px;
+}
+
+
+
+.clase2{
+ padding: 10px;
+  margin: 15px;
+}
+
+
+
+div{
+  box-shadow: 5px -10px 10px black;
+}
+
+
+
+#elemento1{
+  box-shadow: 5px -15px 3px inset white;
+}
+
+
+
