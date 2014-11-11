@@ -1,0 +1,13 @@
+a:hover{
+  color:red;
+}
+
+
+input:focus{
+  border:1px solid blue;
+}
+
+
+ul li:first-child{
+  color:green;
+}

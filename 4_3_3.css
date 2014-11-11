@@ -1,0 +1,13 @@
+#caja1{
+  background-image:linear-gradient(#31b772,#b8329d);
+}
+
+
+#caja2{
+  background-image:radial-gradient(#9bb832,#f89f1a);
+}
+
+
+#caja3{
+  background-image:linear-gradient(red,orange,yellow,green,blue,indigo,violet)
+}

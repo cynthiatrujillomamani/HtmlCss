@@ -1,0 +1,14 @@
+#menu_derecha{
+  width:200px;
+  float:right;
+}
+
+
+#menu_nav li{
+  float:left;
+}
+
+
+.reset{
+  clear:both;
+}

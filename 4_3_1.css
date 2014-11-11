@@ -1,0 +1,16 @@
+.amarillo{
+  background-color:#ffcc00;
+}
+
+
+html body{
+  background-color:#ff9900;
+}
+
+
+
+
+
+ul li:last-child{
+  font-weight:bold;
+}

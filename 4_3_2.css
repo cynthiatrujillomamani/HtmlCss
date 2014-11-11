@@ -1,0 +1,29 @@
+#cuadro{
+  background-image: url(http://sc.acamica.com/cache/img/arbol.png);
+}
+
+
+#cuadro{
+  background-image: url(http://sc.acamica.com/cache/img/arbol.png),url(http://sc.acamica.com/cache/img/luna.png);
+}
+
+
+#cuadro{
+  background-image: url(http://sc.acamica.com/cache/img/arbol.png),url(http://sc.acamica.com/cache/img/luna.png),url(http://sc.acamica.com/cache/img/monstruo.jpg);
+}
+
+
+#cuadro{
+  background-image: url(http://sc.acamica.com/cache/img/arbol.png), url(http://sc.acamica.com/cache/img/luna.png), url(http://sc.acamica.com/cache/img/monstruo.jpg);
+  
+  background-repeat:no-repeat, no-repeat, no-repeat;
+}
+
+
+#cuadro{
+  background-image: url(http://sc.acamica.com/cache/img/arbol.png), url(http://sc.acamica.com/cache/img/luna.png), url(http://sc.acamica.com/cache/img/monstruo.jpg);
+  
+  background-repeat:no-repeat, no-repeat, no-repeat;
+  
+  background-position: center center,center center,center center;
+}
