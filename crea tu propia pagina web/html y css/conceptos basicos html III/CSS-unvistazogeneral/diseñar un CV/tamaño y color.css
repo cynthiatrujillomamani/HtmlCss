@@ -1,0 +1,24 @@
+#encabezado{
+    border-radius:5px;
+    height:80px;
+    width:500px;
+    background-color:purple;
+}
+.izquierda{
+    border-radius:5px;
+    height:400px;
+    width:100px;
+    background-color:orange;
+}
+.derecha{
+    border-radius:5px;
+    height:400px;
+    width:400px;
+    background-color:brown;
+}
+#pie{
+    border-radius:5px;
+    height:80px;
+    width:500px;
+    background-color:skyblue;
+}

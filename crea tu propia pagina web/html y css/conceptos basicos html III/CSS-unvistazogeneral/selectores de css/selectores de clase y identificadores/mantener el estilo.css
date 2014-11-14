@@ -1,0 +1,15 @@
+/*¡Definí tu clase de CSS como .sofisticado a continuación!*/
+
+body{
+    background-color:orange;
+}
+.elegante{
+    font-family:cursive;
+    color:#0000CD;
+}
+.cuadro{
+    border:1px dashed purple;
+    width:80px;
+    height:30px;
+    background-color:skyblue;
+}

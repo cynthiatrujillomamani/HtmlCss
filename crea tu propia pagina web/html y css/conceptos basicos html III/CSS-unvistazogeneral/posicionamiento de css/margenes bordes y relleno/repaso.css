@@ -1,0 +1,14 @@
+/*Agregá tu CSS a continuación*/
+div{
+    border:1px solid black;
+    color:#CC0000;
+    margin-top:10px;
+    margin-right:5px;
+    margin-bottom:5px;
+    margin-left:50px;
+    padding-top:0px;
+    padding-right:30px;
+    padding-bottom:0px;
+    padding-left:10px;
+}
+    

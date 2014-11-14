@@ -1,0 +1,9 @@
+/*¡Definí tu identificador de CSS como #serio a continuación!*/
+#serio{
+    font-family:Courier;
+    color:#CC0000;
+    
+}
+table{
+    border:1px dashed green;
+}

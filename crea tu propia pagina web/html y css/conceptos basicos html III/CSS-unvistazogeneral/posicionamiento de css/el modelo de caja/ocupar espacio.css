@@ -1,0 +1,28 @@
+* {
+	border: 1px dashed blue;
+}
+
+div {
+	height: 50px;
+	width: 100px;
+	border: 2px solid black;
+	border-radius: 5px;
+	/*¡Agrega tu CSS aquí!*/
+	display:block;
+}
+
+#uno {
+	background-color: #FF0000;
+}
+
+#dos {
+	background-color: #0000FF;
+}
+
+#tres {
+	background-color: #FFD700;
+}
+
+#cuatro {
+	background-color: #308014;
+}
