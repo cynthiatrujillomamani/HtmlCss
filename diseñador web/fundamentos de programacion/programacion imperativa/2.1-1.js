@@ -1,0 +1,5 @@
+
+entrenar();
+inscribirte();
+correr();
+descansar();

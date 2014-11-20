@@ -1,0 +1,1 @@
+var ancho=12;
